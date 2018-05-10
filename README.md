@@ -16,6 +16,9 @@ Get started with [Streaming](/setups/streaming).
 
 You would like to record video and audio for editing and distibution later.
 
+Get started with [Recording](/setups/).
+
+
 #### Example Use Cases
 * Single person interviews. [Stream](setups/streaming/single-person) or [Record](setups/recodring/single-person) 
 * Single person presentations [Stream] or [Record]
