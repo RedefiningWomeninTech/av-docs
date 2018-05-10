@@ -1,6 +1,6 @@
 # Set Ups
 
-Choose the best fit for your usecase. What kind of eventdo you have?
+Choose the best fit for your usecase. What kind of event do you have?
 
 Streaming or recording?
 
