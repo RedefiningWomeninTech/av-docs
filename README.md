@@ -22,3 +22,7 @@ You would like to record video and audio for editing and distibution later.
 
 ## All Avaiable Inventory
 All inventory is documented at [here](inventory)
+
+# Terms of Service
+
+forthcoming...
