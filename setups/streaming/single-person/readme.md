@@ -1,5 +1,9 @@
 # Stream a Single Person(s)
 
+## Use Case
+
+There is a single source for audio and video. This could be a presentation or interview. The audio and video source  will likely not change while streaming to a service like facebook or youtube.
+
 ## Set Up
 
 * Camera
