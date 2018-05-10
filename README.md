@@ -8,7 +8,7 @@ Events can be shared live or later after editing. The kind of set up you will ne
 
 ### Streaming Set Ups
 
-You would like to stream video and audio to Facebook, YouTube, Twitch, Twitter/Periscope, Livestream, Ustream, Restream.io and other RTMP destinations. Get started with [Streaming](/setups/streaming).
+You would like to stream video and audio to [facebook](https://live.fb.com/), [YouTube](https://creatoracademy.youtube.com/page/course/livestream), Twitch, Twitter/Periscope, Livestream, Ustream, Restream.io and other RTMP destinations. Get started with [Streaming](/setups/streaming).
 
 ### Recording Set Ups
 
