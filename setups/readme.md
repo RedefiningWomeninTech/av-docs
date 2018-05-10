@@ -2,8 +2,10 @@
 
 Choose the best fit for your usecase. What kind of event do you have?
 
-Streaming or recording? I want to [Stream](streaming)
+Streaming or recording?
 
-Single person or a group?
+This is probably the first question you need to answer to determine thebest set up for you.
+
+I want to [Stream](streaming) | I want to [Record](recording)
 
 The documents here will help guide to the set you need to get started.
