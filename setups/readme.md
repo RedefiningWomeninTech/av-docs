@@ -2,7 +2,7 @@
 
 Choose the best fit for your usecase. What kind of event do you have?
 
-Streaming or recording?
+Streaming or recording? I want to [Stream](streaming)
 
 Single person or a group?
 
