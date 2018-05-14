@@ -16,7 +16,7 @@ Get started with [Streaming](/setups/streaming).
 
 ### Recording Set Ups
 
-You would like to record video and audio for editing and distibution later.
+You would like to record video and audio for editing and distribution later.
 
 Get started with [Recording](/setups/).
 
@@ -27,8 +27,8 @@ Get started with [Recording](/setups/).
 * Panel talks [Stream] or [Record]
 
 
-## All Avaiable Inventory
-All inventory is documented at [here](inventory)
+## All Available Inventory
+All inventory is documented [here](inventory)
 
 # Terms of Service
 
