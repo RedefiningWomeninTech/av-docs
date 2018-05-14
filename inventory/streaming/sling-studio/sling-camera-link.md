@@ -13,6 +13,4 @@ Use the supported HDMI camcorder to wirelessly send video to SlingStudio from up
 
 * 1 HDMI Type D connector supporting 1080p60, 1080i60, 1080p30, 720p60, and 720p30 video inputs
 * 2-channel HDMI embedded audio (48 KHz, 44.1 KHz, 36 KHz, 16-bit)
-
-Battery Life
-2+ hours
+* Battery Life 2+ hours
