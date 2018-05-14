@@ -1,3 +1,3 @@
 # images
 
-Just a folder to store image assests for this repo
+Just a folder to store image assets for this repo
