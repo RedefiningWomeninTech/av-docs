@@ -15,4 +15,4 @@ You should have already:
 
 Knowing these things beforehand will help decide the best set up for you.
 
-[I want to stream a single person](/single-person) | [I want to stream a small group](/small-group)
+[I want to stream a single person](setups/streaming/single-person) | [I want to stream a small group](setups/streaming/small-group)
