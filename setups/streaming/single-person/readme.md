@@ -1,4 +1,4 @@
-# Stream a Single Person(s)
+# Stream a Single Person
 
 ## Use Case
 
