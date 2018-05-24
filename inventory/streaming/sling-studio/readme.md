@@ -12,4 +12,4 @@ The SlingsStudio set up uses:
 
 * [SlingsStudio Hub](../sling-studio/sling-studio-hub.md)
 * [SlingsStudio Battery](../sling-studio/sling-studio-battery.md)
-* [SlingsStudio Hub](../sling-studio/sling-camera-link.md)
+* [Camera Link](../sling-studio/sling-camera-link.md)
